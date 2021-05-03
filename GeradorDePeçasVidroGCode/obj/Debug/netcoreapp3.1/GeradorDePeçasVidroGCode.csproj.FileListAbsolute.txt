@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.exe
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.deps.json
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.runtimeconfig.json
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.dll
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\bin\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.pdb
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.dll
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.pdb
+C:\Users\ddieg\Desktop\GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode\obj\Debug\netcoreapp3.1\GeradorDePeçasVidroGCode.genruntimeconfig.cache

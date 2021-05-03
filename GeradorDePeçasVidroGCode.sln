@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDePeçasVidroGCode", "GeradorDePeçasVidroGCode\GeradorDePeçasVidroGCode.csproj", "{4C6EAE5E-B4CE-4A3B-B623-303E27864F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6EAE5E-B4CE-4A3B-B623-303E27864F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6EAE5E-B4CE-4A3B-B623-303E27864F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6EAE5E-B4CE-4A3B-B623-303E27864F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6EAE5E-B4CE-4A3B-B623-303E27864F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661EDD57-9890-48EA-B269-A0FA7FC80CB1}
+	EndGlobalSection
+EndGlobal
