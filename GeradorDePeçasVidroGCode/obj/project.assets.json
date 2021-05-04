@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddieg\\Desktop\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode.csproj",
+      "projectUniqueName": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GeradorDePe-asVidroGCode\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode.csproj",
       "projectName": "GeradorDePeçasVidroGCode",
-      "projectPath": "C:\\Users\\ddieg\\Desktop\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode.csproj",
+      "projectPath": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GeradorDePe-asVidroGCode\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode.csproj",
       "packagesPath": "C:\\Users\\ddieg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddieg\\Desktop\\GeradorDePeçasVidroGCode\\GeradorDePeçasVidroGCode\\obj\\",
+      "outputPath": "C:\\Users\\ddieg\\Desktop\\MeusProjetos\\GeradorDePe-asVidroGCode\\GeradorDePeçasVidroGCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ddieg\\AppData\\Roaming\\NuGet\\NuGet.Config",

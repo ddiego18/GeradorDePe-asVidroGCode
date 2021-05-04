@@ -2,6 +2,7 @@
 using GeradorDePeçasVidroGCode;
 using GeradorDePeçasVidroGCode.Entities;
 using GeradorDePeçasVidroGCode.Entities.Ferragens;
+using System.Globalization;
 
 namespace GeradorDePeçasVidroGCode
 {

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using GeradorDePeçasVidroGCode;
 using GeradorDePeçasVidroGCode.Entities;
+using System.Globalization;
+
 
 namespace GeradorDePeçasVidroGCode.Entities
 {
